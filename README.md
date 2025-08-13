@@ -179,15 +179,16 @@ Todas las operaciones críticas están envueltas en transacciones para garantiza
 ## 📸 Capturas de Pantalla
 
 ### 🌟 Ventana de Inicio
-![Ventana Inicio](screenshots/ventana-inicio.png)
+<img width="550" height="268" alt="image" src="https://github.com/user-attachments/assets/ff82c0b6-34f2-46df-b17b-78cc673094c3" />
+
 *Pantalla de bienvenida con diseño minimalista y profesional. El ícono del clipboard con lápiz representa perfectamente la gestión de tareas ✨*
 
 ### ✨ Ventana Principal - Agendar Tarea
-![Ventana Principal](screenshots/ventana-principal.png)
+<img width="741" height="484" alt="image" src="https://github.com/user-attachments/assets/67167281-1c10-4ec3-aba8-9056157548e9" />
 *Formulario elegante y funcional para crear tareas. Incluye todos los campos necesarios: título, prioridad (con dropdown), fecha y la opción especial con estrellita ⭐. Los botones "Guardar" y "Ver Tareas" permiten una navegación intuitiva.*
 
 ### 📋 Tabla de Tareas
-![Ventana Tabla](screenshots/ventana-tabla.png)
+<img width="679" height="389" alt="image" src="https://github.com/user-attachments/assets/b07cae73-8bde-4d3f-8b24-0c119155b7de" />
 *Vista de tabla completa con todas las funcionalidades implementadas. Muestra una tarea "Examen" con prioridad Alta, estado Pendiente, marcada como especial (⭐) y fecha 2025-08-25. Los botones "Alternar", "Deshacer" y "Eliminar" proporcionan control total sobre las tareas.*
 
 ### 💾 Persistencia de Datos
